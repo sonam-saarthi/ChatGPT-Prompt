@@ -1,0 +1,3 @@
+Personal Authentication Token for git:
+
+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
